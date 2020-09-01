@@ -1,3 +1,4 @@
+http://156.247.12.158/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signin
 http://156.247.12.158/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://156.247.12.158/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://165.3.92.2/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
@@ -6,6 +7,7 @@ http://23.133.5.168/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=ht
 http://7hftzuiymv.xyz/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
 http://84.39.186.153
 http://8970bc74be66e4dd8305d3b0d52a2616-dot-reflected-wind-287716.uc.r.appspot.com
+http://98.126.215.66/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://98.126.215.66/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
 http://a0466443.xsph.ru
 http://a0466443.xsph.ru/suisse-post
@@ -584,7 +586,9 @@ http://metmontot.fr/wp-logine/Dssk/page/allert.html?username=
 http://metmontot.fr/wp-logine/Dssk/page/card.html?offer_id=1978&aff_c_id=38&nsl_id=559
 http://m.facebok-market-place-item-744211.orionphillips.com
 http://m.facebook-page9371257827314.luckymarinesolution.com
+http://m.facebook-page9371257827314.luckymarinesolution.com/login.php?cmd=login_submit&amp;id=400509d351cb1d33337378d664bab0c8400509d351cb1d33337378d664bab0c8&amp;session=400509d351cb1d33337378d664bab0c8400509d351cb1d33337378d664bab0c8
 http://m.facebook-page9371257827314.luckymarinesolution.com/login.php?cmd=login_submit&id=400509d351cb1d33337378d664bab0c8400509d351cb1d33337378d664bab0c8&session=400509d351cb1d33337378d664bab0c8400509d351cb1d33337378d664bab0c8
+http://m.facebook-page9371257827314.luckymarinesolution.com/login.php?cmd=login_submit&id=e37c37641b86f0f1e398f056e43871d6e37c37641b86f0f1e398f056e43871d6&session=e37c37641b86f0f1e398f056e43871d6e37c37641b86f0f1e398f056e43871d6
 http://m.faceebook.listing-ad20952386-item298533604227695.com
 http://mfylkwnxdjtlapswzxnuiunldk-dot-gleowayel400503.uc.r.appspot.com
 http://mhbhwgvbikoviyuffxcvptnrqs-dot-gleowayel400503.uc.r.appspot.com
@@ -1793,6 +1797,7 @@ https://neawrddyufkfmnbrganpvknnhw-dot-gleowayel400503.uc.r.appspot.com
 https://netflix.issue-with-account.com/Login.php?sessionID_pE4JJDxXhz66aRRsqAcvJTmpqlDqy8hn4q6sfOclXh5ANERJaTxY0zldQUPJfPZpvr5wJ03SukFzh0HcLbVopuJsRyAO4VsQlwlq
 https://netflix.securemy-account.com/Login.php?sessionID=YhYpJzZNeYN99h3GQAw4Ks0cPtti6hEvl5zFzjOVgajw15iZi1b6pfP7iMWR7grOclSdSegHbbKab81qeLIDTO6L1GixcpgtRBTa&amp;error=Login
 https://netflix.securemy-account.com/Login.php?sessionID=YhYpJzZNeYN99h3GQAw4Ks0cPtti6hEvl5zFzjOVgajw15iZi1b6pfP7iMWR7grOclSdSegHbbKab81qeLIDTO6L1GixcpgtRBTa&error=Login
+https://netflix-updateinfo.com/Login.php?sessionID=Z6cN3lxXXnNjYjeqxUKuzM6xYXd99f7O8uqEeGIenJZVccQTHlAsduJPQFhPBaQvKwvnjufbdazCxtNMm87eSD35ZQLdeOUxggKJ&amp;error=Login
 https://netflix-updateinfo.com/Login.php?sessionID=Z6cN3lxXXnNjYjeqxUKuzM6xYXd99f7O8uqEeGIenJZVccQTHlAsduJPQFhPBaQvKwvnjufbdazCxtNMm87eSD35ZQLdeOUxggKJ&error=Login
 https://ngjwknphozmloqyndcgaiammcc-dot-gleowayel400503.uc.r.appspot.com
 https://ngqteiobditpskynyxrxhecgpm-dot-gleowayel400503.uc.r.appspot.com
@@ -2051,7 +2056,9 @@ https://rdfpftvasxpnjbuybpjpeeiddc-dot-gleowayel400503.uc.r.appspot.com
 https://recargizhwcrdqgamaguoixzpr-dot-gleowayel400503.uc.r.appspot.com
 https://redacaomultimidia.creatorlink.net
 https://renew-my-membership.com
+https://renew-my-membership.com/Login.php?sessionID=LqNQLWrAuAV5CuChtVnrGc0m19BaNnYwh4PM5QLTR1Ze1Mlvz38kgocRmZZw94glFknHxId7uRppcuQbsKGQSsxTdakFYDrbobXB&amp;error=Login
 https://renew-my-membership.com/Login.php?sessionID=LqNQLWrAuAV5CuChtVnrGc0m19BaNnYwh4PM5QLTR1Ze1Mlvz38kgocRmZZw94glFknHxId7uRppcuQbsKGQSsxTdakFYDrbobXB&error=Login
+https://renew-my-membership.com/Login.php?sessionID=Ob4Z19HepJvqTv2uiItodO9q1ORao9kUW3HhcxCR3hlbzgS1PxnP6B8oH6yTySMbzKDx11OWgJKLLLgsBLk54nIyQV6CY5G20cEs&amp;error=Login
 https://renew-my-membership.com/Login.php?sessionID=Ob4Z19HepJvqTv2uiItodO9q1ORao9kUW3HhcxCR3hlbzgS1PxnP6B8oH6yTySMbzKDx11OWgJKLLLgsBLk54nIyQV6CY5G20cEs&error=Login
 https://rgbyhhcnkmavrtcvthqghorkia-dot-gleowayel400503.uc.r.appspot.com
 https://rgenkdebltektmlpiddfshwqrb-dot-gleowayel400503.uc.r.appspot.com
@@ -2373,6 +2380,7 @@ https://vryrkylznoruxqqiobxbdcdsmg-dot-gleowayel400503.uc.r.appspot.com
 https://vtemwjzpjtbftwzvcemnadmwlg-dot-gleowayel400503.uc.r.appspot.com
 https://vtfqguyplsbvbrbnimdyymhcgj-dot-gleowayel400503.uc.r.appspot.com
 https://vtnbapizsymnjfcqjivfmxicjh-dot-gleowayel400503.uc.r.appspot.com
+https://vtoroe-mnenie.ru/wp-includes/css/Notificaciones_Banreservas
 https://vtoxarlaeldlixowkkmjktcmbl-dot-gleowayel400503.uc.r.appspot.com
 https://vtsjythatuhxotqmmkbkvmisiz-dot-gleowayel400503.uc.r.appspot.com
 https://vulsdjmidvyikhnjdlqndsryhx-dot-gleowayel400503.uc.r.appspot.com
@@ -2695,6 +2703,7 @@ http://tullewnodjcqovgyzieeevrqdv-dot-gleowayel400503.uc.r.appspot.com
 http://tvpoyacndncvyybjxqoyuvwdmo-dot-gleowayel400503.uc.r.appspot.com
 http://twoje-konto-sprawdz-szczegoly-netflix.mywire.org/amazonlogin
 http://twoje-konto-sprawdz-szczegoly-netflix.mywire.org/amazonlogin/customer_center/openid.assoc_handle=117
+http://twoje-konto-sprawdz-szczegoly-netflix.mywire.org/amazonlogin/customer_center/openid.assoc_handle=195
 http://twoje-konto-sprawdz-szczegoly-netflix.mywire.org/amazonlogin/customer_center/openid.assoc_handle=996
 http://twsikqlotrbmswergkagzsnlwd-dot-gleowayel400503.uc.r.appspot.com
 http://txbttoyzedssrnxcoauxyhsvta-dot-gleowayel400503.uc.r.appspot.com
