@@ -1,6 +1,3 @@
-http://23.133.5.168/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
-http://chemsbury.net/banregio.app.chemsbury.net
-http://ludiequip.es
-https://secure.runescape.com-en.ru/m=weblogin/loginform541
-https://tanbeenhomedecor.com/wp-content/office365-2019/cmd-login=f64232e53a5a12296f43f43d22797910/?email=mcarroll@hfcu.info&amp;loginpage=&amp;reff=MTQ2OTJiNmQ4ZjFmMDljN2VlZGE2Y2VkMTY3ZmVhZWE=
-https://www.esegobasket.com
+http://84.39.186.153
+https://montlucon-natation.fr/ar1
+https://montlucon-natation.fr/ar4
