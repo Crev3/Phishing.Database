@@ -7,8 +7,8 @@
 Please rely **ONLY** on pulling individual list files or the full list of [domains in tar.gz format](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.tar.gz) and [links in tar.gz format](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.tar.gz) (updated hourly) using wget or curl.
 
 _______________
-#### Version: 21901 (2020-09-01 10:34:09 SAST)
-| :boom: Latest Threats<br/>@ 10:34:09 | :boom: Active Threats<br/>Tuesday 2020-09-01 | Total Links<br/>Discovered Today |
+#### Version: 21902 (2020-09-01 11:15:42 SAST)
+| :boom: Latest Threats<br/>@ 11:15:42 | :boom: Active Threats<br/>Tuesday 2020-09-01 | Total Links<br/>Discovered Today |
 | :---: | :---: |:---: |
 | :warning: [4](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [2166](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-TODAY.txt) | [2269](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
