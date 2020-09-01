@@ -1,10 +1,1 @@
-http://156.247.12.158/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
-http://arogota-71.cf/workkbussnessconnactt
-http://jbnkloading.com/jpnbk
-https://creditors24.com
-https://creditv7.ru
-https://moskva.cridit.su
-https://rakuten.co.jp.baikk.top
-https://rakuten.co.jp.rakutenycocojp.com
-https://tvoi-kredity.net
-https://www.rakuten-co-jp-update.org.cn
+https://webmail5.yolasite.com
