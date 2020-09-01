@@ -5140,7 +5140,6 @@ api.securedvisit.com
 api.serialized.com
 api.tinylik.com
 api.webthumbnail.org
-api.whatsapp.com
 apkclue.com
 apkcombo.com
 apkfollow.com
